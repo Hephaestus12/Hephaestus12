@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Tej (he/him)
+
+- 🇩🇪 I write code for a living in Berlin, Germany
+- 🧑‍💻 It's mostly Kotlin, less often Python and Javascript
+- ☕ Apart from programming my nights away, I like hiking, climbing, and Nature
 
 <!--
 **Hephaestus12/Hephaestus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
